@@ -10,8 +10,8 @@
 | :--- | :--- | :---: | :--- |
 | **[01_Directing.md](./01_Directing.md)** | **編導 (Directing)** | 10 張 | 世界觀約束、劇本鉤子、角色心理、節奏控制、視覺參考錨定 |
 | **[02_Concept.md](./02_Concept.md)** | **概念設計 (Concept)** | 10 張 | 情緒板、色彩腳本、角色三視圖、剪影識別、空間分層、材質規範 |
-| **[03_Storyboard.md](./03_Storyboard.md)** | **分鏡 (Storyboard)** | 10 張 | 拇指草圖、景別敘事、鏡頭動力學、180度軸線、Animatic 節奏檢核 |
-| **[04_Animation.md](./04_Animation.md)** | **動畫 (Animation)** | 10 張 | 關鍵極值姿態、預備緩衝、擠壓拉伸、律動表、元件複用、重量感表演 |
+| **[03_Storyboard.md](./03_Storyboard.md)** | **分鏡 (Storyboard)** | 10 張 | 快速分鏡草稿、景別敘事、鏡頭動機、180度軸線原則、動態腳本測試 |
+| **[04_Animation.md](./04_Animation.md)** | **動畫 (Animation)** | 10 張 | 關鍵動作先畫、預備與緩衝、表演形變、動態軌跡預標、律表節奏預排 |
 | **[05_VFX_Comp_Rules.md](./05_VFX_Comp_Rules.md)** | **特效與合成 + 規則卡** | 10+1 張 | 通道規範、接地陰影、大氣透視、風格化特效、調色母帶、5人兼任矩陣 |
 
 ---
