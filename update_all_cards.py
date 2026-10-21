@@ -147,7 +147,7 @@ cards_03 = [
     },
     {
         "id": "STB-08",
-        "title": "08. 工業標註藍圖（Timing Annotations）",
+        "title": "08. 動作與秒數標註（Timing & Action Notes）",
         "cat": "<b>[Learn]</b> · Look · Ask · Try",
         "how": "分鏡欄嚴格標註「鏡頭號、精確秒數、具體物理動詞、音效點」，禁止寫抒情散文。",
         "why": "分鏡是施工圖紙，寫「內心悲痛」只會引發歧義，寫「低頭落淚」動畫師才能直接做。",

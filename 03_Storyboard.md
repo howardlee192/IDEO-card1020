@@ -69,7 +69,7 @@
 
 ---
 
-### 08. 工業標註藍圖（Timing Annotations）
+### 08. 動作與秒數標註（Timing & Action Notes）
 
 * **頂部分類**：[Learn] · Look · Ask · Try
 * **HOW**：分鏡欄嚴格標註「鏡頭號、精確秒數、具體物理動詞、音效點」，禁止寫抒情散文。
