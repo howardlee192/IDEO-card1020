@@ -1,0 +1,12 @@
+<svg>
+<rect data-miro-id="3458764687915734824" data-deleted="true" />
+<rect data-miro-id="3458764687915734825" data-deleted="true" />
+<rect data-miro-id="3458764687915734826" data-deleted="true" />
+<g data-miro-id="3458764687915734815" data-frame="06. 核心規則卡 Rule Card（5人團隊）" transform="translate(9000, -192000)">
+<rect data-type="frame" x="0" y="0" width="20000" height="10500" fill="#fff5ed" data-title="06. 核心規則卡 Rule Card（5人團隊）" />
+<text data-miro-id="3458764687915734823" x="700" y="700" font-family="noto_sans" font-size="400" font-weight="bold" fill="#bb4d00">06. 核心規則 Rule · 5人團隊多工兼任矩陣與秒級決策律</text>
+<rect id="rule_01" data-type="sticky" x="700" y="1977" width="5600" height="7500" data-color="orange" data-content="&lt;b&gt;RULE-01. 5人團隊多工兼任角色矩陣&lt;/b&gt;&lt;br/&gt;&lt;i&gt;&lt;b&gt;[Learn]&lt;/b&gt; · 全局協同&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;HOW:&lt;/b&gt; 成員 A 主導編導與剪輯聲音；成員 B 主導概念與背景；成員 C 主導分鏡與原畫；成員 D 主導動畫執行與中割；成員 E 主導特效合成與母帶 QC。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;WHY:&lt;/b&gt; 5 人小組不准有純指揮官，全員皆兵、主責一道工序並兼任下游，產能最大化。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;案例:&lt;/b&gt; 分鏡師畫完立刻接手關鍵原畫，避免交接解釋成本，作畫進度直接提前 1 週。" />
+<rect id="rule_02" data-type="sticky" x="7000" y="1977" width="5600" height="7500" data-color="yellow" data-content="&lt;b&gt;RULE-02. IDEO 卡牌三階調用機制&lt;/b&gt;&lt;br/&gt;&lt;i&gt;&lt;b&gt;[Try]&lt;/b&gt; · 敏捷排障&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;HOW:&lt;/b&gt; 每日立會抽 1 張當前卡作為產出標準；任何環節卡關超 1 天立刻亮紅燈強制按卡執行；驗收依交付標的點交。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;WHY:&lt;/b&gt; 用客觀工具卡代替主觀爭論，把溝通與扯皮成本降到最低。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;案例:&lt;/b&gt; 概念設計卡關 2 天，全員亮出「情緒板過濾卡」強制砍到剩 20 張參考圖，當天下午順利定案。" />
+<rect id="rule_03" data-type="sticky" x="13300" y="1977" width="5600" height="7500" data-color="orange" data-content="&lt;b&gt;RULE-03. 爭端終結三秒律&lt;/b&gt;&lt;br/&gt;&lt;i&gt;&lt;b&gt;[Ask]&lt;/b&gt; · 秒級定案&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;HOW:&lt;/b&gt; 故事時長爭議由成員 A（編導）一票否決；畫風審美由成員 B（概念）一票定奪；產能超時由成員 C/D/E（製作組）一票拒絕。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;WHY:&lt;/b&gt; 告別無休止的民主投票與空耗會議，賦予各領域負責人絕對裁決權。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;案例:&lt;/b&gt; 會議爭論結局要不要死人超過 1 小時，編導行使一票否決權 3 秒定案，團隊立刻散會開工。" />
+</g>
+</svg>
