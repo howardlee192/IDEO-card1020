@@ -35,3 +35,13 @@
 * **成員 C（動態核心）**：分鏡 / 動態腳本 (Animatic) ＋ 關鍵原畫
 * **成員 D（動態執行）**：動畫師（原畫 / 中割 / 清線著色資產化）
 * **成員 E（後期基石）**：特效與合成（圖層管理 / 2D 特效 / 全片調色母帶）
+
+---
+
+## 🎨 Miro 數位看板同步 (Miro Board Sync)
+
+本套方法卡系統已完整同步至 Miro 數位白板畫布，提供線上可視化拖曳、即時立會檢驗與團隊腦力激盪：
+
+* **Miro 線上畫布**：[IDEO Card_brainstorm (https://miro.com/app/board/uXjVEckbRIw=/)](https://miro.com/app/board/uXjVEckbRIw=/)
+* **便利貼全量同步手冊**：**[MIRO_STICKY_NOTES.md](./MIRO_STICKY_NOTES.md)**（包含 56 張便簽 ID、分類色彩、前期發想區與 6 大框架完整記錄）
+* **JSON 結構化資料**：`miro_sticky_notes.json`（供自動化工具與管線整合調用）
